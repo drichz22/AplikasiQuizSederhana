@@ -120,141 +120,10 @@ public class Main {
         }
     }
     
-    private static void javaReferences() {
-    	System.out.println("\nGeneral\r"
-    			+ "\r\n"
-    			+ "Oracle Java mother site @ https://www.oracle.com/technetwork/java/index.html.\r\n"
-    			+ "\r\n"
-    			+ "OpenJDK mother site @ https://openjdk.java.net/.\r\n"
-    			+ "\r\n"
-    			+ "Java Documentation @ https://docs.oracle.com/en/java/index.html.\r\n"
-    			+ "\r\n"
-    			+ "JDK (Java SE or Java Platform Standard Edition)\r\n"
-    			+ "JDK (Java SE) mother site @ https://www.oracle.com/technetwork/java/javase/overview/index.html.\r\n"
-    			+ "\r\n"
-    			+ "JDK API Documentation Online @ https://docs.oracle.com/en/java/javase/11/ (for JDK 11).\r\n"
-    			+ "\r\n"
-    			+ "Ken Arnold, James Gosling and David Holmes, \"The Java Programming Language\", 4th ed, 2005. (The defacto standard for Java Language, but does not seem to have been updated to cover the latest features?!)\r\n"
-    			+ "James Gosling, Bill Joy, Guy Steele and Gilad Bracha, \"The Java Language Specification\", 3rd ed, 2005. (The defacto standard for JVM, but does not seem to have been updated?!)\r\n"
-    			+ "\r\n"
-    			+ "JDK Demos and Samples (to be downloaded @ https://www.oracle.com/technetwork/java/javase/downloads/index.html).\r\n"
-    			+ "\r\n"
-    			+ "Books & Online Tutorials\r\n"
-    			+ "\r\n"
-    			+ "The online Java tutorial @ https://docs.oracle.com/javase/tutorial/. (The authoritative source)\r\n"
-    			+ "Paul Deitel and Harvey Deitel, \"Java How to Program, Late Object\", latest edition. (A comprehensive reference for programmers)\r\n"
-    			+ "Y. Daniel Liang, \"Introduction to Java Programming\", latest edition. (Good text book for undergraduate Java courses.)\r\n"
-    			+ "Bruce Eckel, \"Thinking in Java\", 4th ed, 2007. (Great book but has not been updated?!)");
-    }
-    
-    private static void mathReferences() {
-    	System.out.println("\nOnline Learning Platforms:\r"
-    			+ "\r\n"
-    			+ "Khan Academy\r\n"
-    			+ "\r\n"
-    			+ "Website\r\n"
-    			+ "Provides instructional videos, practice exercises, and a personalized learning dashboard for various math topics.\r\n"
-    			+ "Coursera - Mathematics Courses\r\n"
-    			+ "\r\n"
-    			+ "Website\r\n"
-    			+ "Offers online courses from universities and colleges around the world, covering a wide range of mathematical subjects.\r\n"
-    			+ "edX - Mathematics\r\n"
-    			+ "\r\n"
-    			+ "Website\r\n"
-    			+ "Similar to Coursera, edX offers online courses from universities and institutions, allowing you to learn at your own pace.\r\n"
-    			+ "Books:\r\n"
-    			+ "\"Mathematics: Its Content, Methods, and Meaning\" by A. D. Aleksandrov\r\n"
-    			+ "\r\n"
-    			+ "A comprehensive overview of various branches of mathematics.\r\n"
-    			+ "\"How to Solve It\" by George Pólya\r\n"
-    			+ "\r\n"
-    			+ "Focuses on problem-solving heuristics and methods.\r\n"
-    			+ "\"The Princeton Companion to Mathematics\" edited by Timothy Gowers\r\n"
-    			+ "\r\n"
-    			+ "A comprehensive reference guide to various areas of mathematics.\r\n"
-    			+ "Websites and Forums:\r\n"
-    			+ "Wolfram Alpha\r\n"
-    			+ "\r\n"
-    			+ "Website\r\n"
-    			+ "A computational engine that can help you solve mathematical problems and generate visualizations.\r\n"
-    			+ "Art of Problem Solving (AoPS)\r\n"
-    			+ "\r\n"
-    			+ "Website\r\n"
-    			+ "A community and resource for high-performing math students, with an emphasis on competition math.\r\n"
-    			+ "Math Stack Exchange\r\n"
-    			+ "\r\n"
-    			+ "Website\r\n"
-    			+ "A Q&A platform where you can ask and answer mathematical questions.\r\n"
-    			+ "Reference Materials:\r\n"
-    			+ "Wolfram MathWorld\r\n"
-    			+ "\r\n"
-    			+ "Website\r\n"
-    			+ "An extensive and interactive mathematics encyclopedia.\r\n"
-    			+ "MIT OpenCourseWare - Mathematics\r\n"
-    			+ "\r\n"
-    			+ "Website\r\n"
-    			+ "Provides free access to course materials from many MIT mathematics courses.\r\n"
-    			+ "YouTube Channels:\r\n"
-    			+ "3Blue1Brown\r\n"
-    			+ "\r\n"
-    			+ "YouTube Channel\r\n"
-    			+ "Visualizes complex mathematical concepts to make them more intuitive.\r\n"
-    			+ "Numberphile\r\n"
-    			+ "\r\n"
-    			+ "YouTube Channel\r\n"
-    			+ "Offers videos about numbers and mathematics in an entertaining way.");
-    }
-    
-    private static void CReferences() {
-    	System.out.println("\nC Programming:\r"
-    			+ "\r\n"
-    			+ "Book: \"C Programming Absolute Beginner's Guide\" by Perry and Miller\r\n"
-    			+ "https://www.informit.com/store/c-programming-absolute-beginners-guide-pearson-9780789751980\r\n"
-    			+ "\r\n"
-    			+ "Online Course: \"C Programming for Beginners\" on Udemy\r\n"
-    			+ "https://www.udemy.com/course/c-for-technical-interview/\r\n"
-    			+ "\r\n"
-    			+ "Website: GeeksforGeeks C Programming Tutorials\r\n"
-    			+ "https://www.geeksforgeeks.org/c-programming-language/\r\n");
-    }
-    
-    private static void DBMSReferences() {
-    	System.out.println("\nDatabase Management Systems (DBMS):\r"
-    			+ "\r\n"
-    			+ "Book: \"Database Management Systems\" by Raghu Ramakrishnan and Johannes Gehrke\r\n"
-    			+ "https://www.db-book.com/\r\n"
-    			+ "\r\n"
-    			+ "Online Course: \"Introduction to Database Management Systems\" on Coursera\r\n"
-    			+ "https://www.coursera.org/learn/database-management\r\n"
-    			+ "\r\n"
-    			+ "Website: Oracle Documentation for Oracle Database\r\n"
-    			+ "https://docs.oracle.com/en/database/\r\n");
-    }
-    
-    private static void FrontEndReferences() {
-    	System.out.println("\nWeb Development (HTML, CSS, and JavaScript):\r"
-    			+ "\r\n"
-    			+ "MDN Web Docs:\r\n"
-    			+ "https://developer.mozilla.org/en-US/docs/Learn/HTML\r\n"
-    			+ "https://developer.mozilla.org/en-US/docs/Learn/CSS\r\n"
-    			+ "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide\r\n"
-    			+ "\r\n"
-    			+ "Online Course: \"The Web Developer Bootcamp 2023\" on Udemy by Colt Steele\r\n"
-    			+ "https://www.udemy.com/course/the-web-developer-bootcamp/\r\n"
-    			+ "\r\n"
-    			+ "W3Schools:\r\n"
-    			+ "https://www.w3schools.com/html/\r\n"
-    			+ "https://www.w3schools.com/css/\r\n"
-    			+ "https://www.w3schools.com/js/\r\n"
-    			+ "\r\n"
-    			+ "GitHub Repository: FreeCodeCamp's Responsive Web Design Certification\r\n"
-    			+ "https://github.com/freeCodeCamp/freeCodeCamp\r\n");
-    }
-    
 	public static void main(String[] args) {
 		
 		Scanner scanner = new Scanner(System.in);
-        int choice, choice1, choice2;
+        int choice, choice1;
         ArrayList<Integer> scoreList = new ArrayList<>();
         ArrayList<String> usernameList = new ArrayList<>();
 
@@ -290,8 +159,7 @@ public class Main {
         		            System.out.println("3. C Course");
         		            System.out.println("4. DBMS Course");
         		            System.out.println("5. Front-End Course");
-        		            System.out.println("6. Link References");
-        		            System.out.println("7. Exit");
+        		            System.out.println("6. Exit");
         		            System.out.print("Enter your choice: ");
         		            choice = scanner.nextInt();    		
         		            switch (choice) {
@@ -310,49 +178,14 @@ public class Main {
         		                case 5:
         		                	takeQuiz(FrontEndCourse.getQuestions(), scanner, scoreList);
         		                    break;
-        		                case 6:
-        		                	do {
-        		                	System.out.println("\nLINK REFERENCES");
-        		                	System.out.println("1. Java Course");
-        		                	System.out.println("2. Math Course");
-        		                	System.out.println("3. C Course");
-        		                	System.out.println("4. DBMS Course");
-        		                	System.out.println("5. Front-End Course");
-        		                	System.out.println("6. Exit");
-        		                	System.out.print("Enter your choice: ");
-        		                	choice2 = scanner.nextInt();
-        		                	switch (choice2) {
-        		                		case 1:
-        		                			javaReferences();
-        		                			break;
-        		                		case 2:
-        		                			mathReferences();
-        		                			break;
-        		                		case 3:
-        		                			CReferences();
-        		                			break;
-        		                		case 4:
-        		                			DBMSReferences();
-        		                			break;
-        		                		case 5:
-        		                			FrontEndReferences();
-        		                			break;
-        		                		case 6:
-        		                			System.out.println("Exiting references. See ya!");
-        		                			break;
-        		                		default:
-        		                			System.out.println("Invalid choice. Please enter a valid option.");
-        		                		}      		      
-        		                	} while (choice2 != 6);
-        		                	break;
-        		                case 7:
+          		                case 6:
         		                    System.out.println("Exiting the quiz menu. See ya!");
         		                    break;
         		                default:
         		                    System.out.println("Invalid choice. Please enter a valid option.");
-        		            }
-        		        } while (choice != 7);
-                    break;
+        		            	}
+        		    } while (choice != 6);
+        		    break;
         		case 3:
         			displayLeaderboard(createLeaderboardMap(usernameList, scoreList));
         			break;
@@ -374,4 +207,3 @@ public class Main {
          }
 	}
 }
-	
