@@ -122,7 +122,7 @@ public class Main {
     
 	public static void main(String[] args) {
 		
-		Scanner scanner = new Scanner(System.in);
+	Scanner scanner = new Scanner(System.in);
         int choice, choice1;
         ArrayList<Integer> scoreList = new ArrayList<>();
         ArrayList<String> usernameList = new ArrayList<>();
@@ -198,7 +198,7 @@ public class Main {
         	}
           }
        } catch (Exception e) {
-        			System.out.println("Galat");
+        		   System.out.println("Galat");
        }
          finally {
         	 if (scanner != null) {
